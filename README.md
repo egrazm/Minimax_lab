@@ -51,3 +51,5 @@ El jugador elige controlar a uno de los dos personajes, con objetivos distintos.
 - 🎨 Incorporación de visuales con emojis que dieron vida al juego.
 - 🧠 Comprensión profunda del algoritmo Minimax, ajustando su profundidad para lograr decisiones más eficientes.
 
+Python 3.12.10
+
